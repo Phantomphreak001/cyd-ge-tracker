@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+venv/
+.venv/
+backup/
+rel/
+*.bin
+__pycache__/
