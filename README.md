@@ -1,5 +1,8 @@
 # CYD GE Tracker
 
+![CYD GE Tracker running on an ESP32 Cheap Yellow Display](docs/cyd-ge-tracker.jpg)
+
+
 A mini **Old School RuneScape Grand Exchange tracker** for the ESP32 "Cheap Yellow Display" (CYD). It's a pocket-sized companion to the desktop app [osrs-ge-tracker](https://github.com/Phantomphreak001/osrs-ge-tracker): plug it in, join it to your WiFi, and it shows live GE prices and flip ideas on its 2.8" screen.
 
 ## Features
